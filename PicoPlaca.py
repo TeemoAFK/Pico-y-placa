@@ -1,4 +1,6 @@
 Placa_auto=input("Ingrese la placa de su vehiculo: ")
+p1=list(Placa_auto)
+p1[6]
 
 Dia=["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
 Placa=["1-2","3-4","5-6","7-8","9-0","N/A","N/A"]
